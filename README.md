@@ -1,6 +1,6 @@
 # Grit Patterns
 
-This repository contains curated Grit patterns.
+This repository contains a curated set of example Grit patterns in [`.grit/patterns`](https://github.com/honeycombio/stdlib/tree/main/.grit/patterns).
 
 ## License
 
